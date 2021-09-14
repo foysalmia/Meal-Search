@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Suez+One&display=swap');
+
+
+
+body{
+    background-color: rgb(255, 250, 240);
+}
+h1 {
+    font-family: 'Suez One', serif;
+    font-size: 3rem;
+    color: rgb(187, 107, 2);
+}
+main{
+    margin-top: 5rem;
+}
